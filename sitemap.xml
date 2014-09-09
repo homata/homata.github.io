@@ -3,22 +3,46 @@
   
   
   <url>
-    <loc>http://homata.com/blog/2014/08/31/namie-fellow/</loc>
-    <lastmod>2014-08-31T21:13:31+09:00</lastmod>
+    <loc>http://homata.com/blog/2014/09/09/lost-and-found/</loc>
+    <lastmod>2014-09-09T22:00:36+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://homata.com/blog/2014/09/08/welocome-nomikai/</loc>
+    <lastmod>2014-09-08T22:04:31+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://homata.com/blog/2014/09/03/lost-bag/</loc>
+    <lastmod>2014-09-03T05:23:44+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://homata.com/blog/2014/09/02/caught-a-cold/</loc>
+    <lastmod>2014-09-02T21:24:06+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://homata.com/blog/2014/09/01/namie-fellow/</loc>
+    <lastmod>2014-09-01T20:19:59+09:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
     <loc>http://homata.com/blog/archives/</loc>
-    <lastmod>2014-08-31T21:21:59+09:00</lastmod>
+    <lastmod>2014-09-10T06:26:05+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://homata.com/</loc>
-    <lastmod>2014-08-31T21:21:59+09:00</lastmod>
+    <lastmod>2014-09-10T06:26:05+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
