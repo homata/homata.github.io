@@ -303,6 +303,11 @@ $ rake gen_deploy
 
 staticサイトの生成
 $ rake generate
+
 ローカルでのpreview
 $ rake preview 
 
+GitHubにデプロイ(コミット)
+$ rake deploy
+
+% git push github source
